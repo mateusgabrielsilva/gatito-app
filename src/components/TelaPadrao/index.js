@@ -2,6 +2,7 @@ import React from  'react'
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaView, KeyboardAvoidingView, Platform } from 'react-native'
 import estilosGlobal, { cores } from '../../estilos'
+import estilos from './estilos';
 
 
 export default function TelaPadrao({children}) {

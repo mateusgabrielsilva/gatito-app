@@ -5,6 +5,7 @@ import Rotas from "./src/Rotas"
 import TelaPadrao from "./src/components/TelaPadrao"
 
 export default function App() {
+  console.log("Alura")
   return <TelaPadrao>
       <Rotas />
   </TelaPadrao>
